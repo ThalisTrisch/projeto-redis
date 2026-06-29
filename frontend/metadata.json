@@ -1,0 +1,6 @@
+{
+  "name": "Mercado Livre Clone",
+  "description": "Frontend minimalista inspirado no Mercado Livre, pronto para integrar com API Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
